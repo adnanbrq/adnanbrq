@@ -3,12 +3,7 @@
 I'm a Software Developer focused on Web and Mobile Technologies while also advancing in Backend Development using the Go language.
 Things that I use:
 
-Frontend | Backend | Mobile
---- | --- | ---
-TypeScript | Go Lang | Dart Lang
-React / Solid / Vue | Fiber / GORM / Bun by Uptrace | Swift / Dart
-Next / Astro | &nbsp; | Flutter
-Vite | &nbsp; | &nbsp;
+![Tech](./carbon.svg)
 
 <!--
 **adnanbrq/adnanbrq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
